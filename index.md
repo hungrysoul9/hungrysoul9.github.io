@@ -1,3 +1,3 @@
 ---
-layout: _base_layout
+layout: base_layout
 ---
