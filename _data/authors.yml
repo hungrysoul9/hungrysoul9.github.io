@@ -8,11 +8,13 @@ hdmun:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    포스팅 유저에 대한 글 적는 곳, 줄바꿈은 문장 사이에 한 줄 추가해야 함
 
-    Open `_data/authors.yml` to edit this text.
+    포스팅 내용 하단, about.md 상단에 표시 됨
+
+    편집 파일 `_data/authors.yml`.
+
+    about 프로퍼티 수정하면 됨
 
   # This photo will be used in the about section
   picture:
