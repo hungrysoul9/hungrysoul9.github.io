@@ -117,7 +117,7 @@ hy-drawer {
     position: absolute;
     right: 1.5rem;
     left: 1.5rem;
-    bottom: 1rem;
+    top: 4rem;
   }
 
   @media screen and (min-width: $break-point-dynamic) {
@@ -128,9 +128,13 @@ hy-drawer {
 }
 
 /* About section */
-.sidebar-about > h1 {
-  color: #fff;
-  font-size: 2rem;
+.sidebar-about {
+  margin-bottom: 5rem;
+
+  h1 {
+    color: #fff;
+    font-size: 2rem;
+  }
 }
 
 .sidebar-nav > ul {
