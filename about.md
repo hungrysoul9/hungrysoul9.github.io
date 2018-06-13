@@ -2,9 +2,7 @@
 layout: about
 title: About
 description: >
-  **Hydejack** is a Jekyll theme with JavaScript powers, combining the best of static sites and modern web apps.
-  It features a suite of JavaScript that makes the page feel like an app, without sacrificing backwards-compatibility,
-  page-load speed or SEO.
+  Markdown 사용법을 익히기 위해 아래 글은 남겨 놓습니다.
 menu: true
 order: 4
 ---
