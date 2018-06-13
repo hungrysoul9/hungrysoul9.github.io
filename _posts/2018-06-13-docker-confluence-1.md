@@ -107,7 +107,7 @@ volumes:
 ~~~
 
 
-**NOTE**: **postgresql**의 경우 윈도우에서 권한 문제가 발생해 postgresql 컨테이너가 실행되지 않는 문제가 발생한다. 권한 문제를 해결하기 위해 **postgres_data** 볼륨을 만들어 마운트 시켰다.  
+**NOTE**: /var/lib/postgresql/data 경로를 Host 경로로 바로 마운트 시키면 윈도우에서 권한 문제가 발생해 **postgresql** 컨테이너가 실행되지 않는 문제가 발생한다. 권한 문제를 해결하기 위해 **postgres_data** 볼륨을 만들어 마운트 시켰다.  
 
 
 아래 명령어를 실행  
