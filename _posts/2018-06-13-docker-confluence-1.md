@@ -96,12 +96,18 @@ services:
             POSTGRES_USER: dbuser
             POSTGRES_PASSWORD: dbpassword
             POSTGRES_INITDB_ARGS: --encoding=UTF-8
-            PGDATA: /tmp
+            # PGDATA: /var/lib/postgresql/data
         ports:
             - "5432:5432"
         volumes:
-            - C:\Users\hungr\docker-volume\confluence-db:/var/lib/postgresql/data
+            - postgres_data:/var/lib/postgresql/data
+
+volumes:
+    postgres_data:
 ~~~
+
+
+**NOTE**: **postgresql**의 경우 윈도우에서 권한 문제가 발생해 postgresql 컨테이너가 실행되지 않는 문제가 발생한다. 권한 문제를 해결하기 위해 **postgres_data** 볼륨을 만들어 마운트 시켰다.  
 
 
 아래 명령어를 실행  
