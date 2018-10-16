@@ -193,6 +193,11 @@ plugins:
   - jekyll-sitemap
   # - jekyll-titles-from-headings
 
+jekyll_auth:
+  whitelist:
+    - "^((?!draft).)*$"
+  ssl:
+    true
 # Theme
 # ---------------------------------------------------------------------------------------
 
