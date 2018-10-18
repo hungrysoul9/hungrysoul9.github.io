@@ -22,5 +22,5 @@ git push origin +master
 
 {:message}
   > **references**
-  [git commit & push 된거 강제 rollback 하기(원격저장소 원복)](http://papababo.tistory.com/213)
-  [[Git] 아흑.. 커밋을 잘못했네;; 세상에 푸쉬까지 해버렸는데… 어쩌지… ](http://whiteship.me/?p=13516)
+  1. [git commit & push 된거 강제 rollback 하기(원격저장소 원복)](http://papababo.tistory.com/213)  
+  2. [[Git] 아흑.. 커밋을 잘못했네;; 세상에 푸쉬까지 해버렸는데… 어쩌지… ](http://whiteship.me/?p=13516)  
