@@ -2,12 +2,15 @@
 layout: post
 title: "[아시아나] 아시아나 성수기 기간 2018, 2019"
 description: >
-  2018, 2019 아시아나 성수기 기간
+  2018, 2019 아시아나 성수기 기간  
 tags: [review]
 author: hdmun
 comments: true
 ---
 
+
+2018년, 2019년 아시아나 성수기 기간 표를 가져옴  
+표 끊을 때 참고하자  
 
 ## 2018  
 
