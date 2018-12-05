@@ -91,6 +91,8 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 google_analytics:      UA-120842609-1
 
 google_adsense_approval: false
+google_adsense_script: true
+
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
 disqus: hungrysoul9-github-io
