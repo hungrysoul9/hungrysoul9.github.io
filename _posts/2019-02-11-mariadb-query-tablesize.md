@@ -14,5 +14,5 @@ SELECT
     round(data_length / (1024*1024), 2) as 'DATA_SIZE(MB)',
     round(index_length / (1024*1024), 2) as 'INDEX_SIZE(MB)'
 FROM information_schema.TABLES
-where table_schema = 'moneybucket_raw'
+where table_schema = 'DB이름'
 ~~~
