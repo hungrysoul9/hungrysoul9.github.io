@@ -22,6 +22,11 @@ comments: true
 
 영상에서 가르쳐주는 방법과 직접해본 내용을 정리해보았다.  
 
+> **#아래 리브메이트를 이용한 마일리지 충전 방법은 막혔습니다.**  
+> **#아래 링크에 다른 방법이 안내되어있으니 이 방법을 활용하시길 바랍니다.**  
+> https://blog.naver.com/PostView.nhn?blogId=jaden365viaje&logNo=221410465231&categoryNo=16&parentCategoryNo=&from=thumbnailList
+
+
 ## 리브메이트 이용한 마일리지 충전  
 
 {:message}
