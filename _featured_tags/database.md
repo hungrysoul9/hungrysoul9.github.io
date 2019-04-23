@@ -1,11 +1,10 @@
 ---
 layout: list
-title: Review
-slug: review
+title: Database
+slug: database
 menu: true
-order: 3
-description: >
-  리뷰나 추천하고 싶은 것들을 포스팅합니다.
+order: 2
+description: 
 accent_color: '#268bd2'
 accent_image:
   background: '#202020'
