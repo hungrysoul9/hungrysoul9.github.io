@@ -21,9 +21,9 @@ hungrysoul9:
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
-  social:
+  # social:
     # twitter:         <username>
-    # github:            hungrysoul9
+    # github:          <username>
     # email:           mailto:<mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
