@@ -1,9 +1,9 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-hdmun:
-  name:              Huidae Mun
-  email:             huidae.mun@gmail.com
+hungrysoul9:
+  name:              hungrysoul9
+  email:             hungrysoul9@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -23,7 +23,7 @@ hdmun:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:            hungrysoul9
+    # github:            hungrysoul9
     # email:           mailto:<mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>

@@ -22,16 +22,16 @@ baseurl:               ''
 lang:                  ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 hdmun
+title:                 hungrysoul9
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  그냥 대충 쓸려고 만든 블로그
+  이것저것 포스팅하는 잡 블로그
 
 # 간단한 소개글 in sidebar
 tagline:               >
-  개인 기록용
+  이것저것 포스팅하는 잡 블로그
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,8 +42,8 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                Huidae Mun
-  email:               huidae.mun@gmail.com
+  name:                hungrysoul9
+  email:               hungrysoul9@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
