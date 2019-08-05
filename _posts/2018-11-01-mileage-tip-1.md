@@ -3,7 +3,7 @@ layout: post
 title: "[YouTube 어디가시나영] 마일리지 모으는 팁 리뷰"
 description: >
   그냥 제가 정리하려고 리뷰한겁니다.  
-tags: [devlog]
+tags: [review]
 author: hdmun
 comments: true
 ---
