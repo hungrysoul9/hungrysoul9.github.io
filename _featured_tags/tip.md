@@ -1,11 +1,11 @@
 ---
 layout: list
-title: Review
-slug: review
+title: Tip
+slug: tip
 menu: true
-order: 10
+order: 11
 description: >
-  리뷰나 추천하고 싶은 것들을 포스팅합니다.
+  유용한 팁들 소개
 accent_color: '#268bd2'
 accent_image:
   background: '#202020'
