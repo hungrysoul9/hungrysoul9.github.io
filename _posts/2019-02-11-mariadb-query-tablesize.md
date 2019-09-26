@@ -2,7 +2,7 @@
 layout: post
 title: "[MariaDB] 테이블 row 갯수, 사이즈 쿼리"
 description:
-tags: [dev]
+tags: [devlog]
 author: hdmun
 comments: true
 ---

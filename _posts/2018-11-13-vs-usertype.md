@@ -3,7 +3,7 @@ layout: post
 title: "[VisualStudio] 텍스트 편집기에서 특정 키워드 색 지정하기"
 description: >
   특정 키워드 색 지정하기
-tags: [dev]
+tags: [devlog]
 author: hdmun
 comments: true
 ---

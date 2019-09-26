@@ -3,7 +3,7 @@ layout: post
 title: "비주얼 스튜디오 미리 컴파일된 헤더 만들기"
 description: >
   Visual Stduio C++ 프로젝트에서 미리 컴파일된 헤더가 없을 때 만드는 방법에 대해 설명합니다.
-tags: [dev]
+tags: [devlog]
 author: hdmun
 comments: true+
 ---

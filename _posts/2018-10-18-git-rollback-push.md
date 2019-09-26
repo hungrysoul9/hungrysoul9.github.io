@@ -2,7 +2,7 @@
 layout: post
 title: "[git] push 되돌리기"
 description: >
-tags: [dev]
+tags: [devlog]
 author: hdmun
 comments: true
 ---

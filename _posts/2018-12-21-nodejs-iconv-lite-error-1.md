@@ -2,7 +2,7 @@
 layout: post
 title: "[Nodejs] iconv-lite electron, webpack 관련 에러 해결"
 description:
-tags: [dev]
+tags: [devlog]
 author: hdmun
 comments: true
 ---
