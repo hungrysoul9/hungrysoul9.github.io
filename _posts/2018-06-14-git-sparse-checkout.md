@@ -3,7 +3,7 @@ layout: post
 title: "[git] 서브 디렉토리만 체크아웃 하기"
 description: >
   git에서 서브 디렉토리만 체크아웃 하는 방법을 정리해보았다  
-tags: [devlog]
+tags: [dev]
 author: hdmun
 comments: true
 ---
