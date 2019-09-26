@@ -3,7 +3,7 @@ layout: post
 title: "[docker] Confluence 구축하기"
 description: >
   
-tags: [devlog]
+tags: [dev]
 author: hdmun
 comments: true
 ---
