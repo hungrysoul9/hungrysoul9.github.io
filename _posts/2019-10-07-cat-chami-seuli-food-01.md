@@ -63,8 +63,8 @@ exceptpostlist: true
 
 
 # 참치 붉은등지살
-![wellgrom-mewpot-salmon-tuna-redback]({{ "/assets/img/cat_chami_seuli/wellgrom-mewpot-salmon-tuna-redback.jpg" }})
-![wellgrom-mewpot-salmon-tuna-redback-components]({{ "/assets/img/cat_chami_seuli/wellgrom-mewpot-salmon-tuna-redback-components.jpg" }})
+![wellgrom-mewpot-tuna-redback]({{ "/assets/img/cat_chami_seuli/wellgrom-mewpot-tuna-redback.jpg" }})
+![wellgrom-mewpot-tuna-redback-components]({{ "/assets/img/cat_chami_seuli/wellgrom-mewpot-tuna-redback-components.jpg" }})
 
 ## 결과
 
@@ -74,8 +74,8 @@ exceptpostlist: true
 
 
 # 참치 통아가미살
-![wellgrom-mewpot-salmon-tuna-gil]({{ "/assets/img/cat_chami_seuli/wellgrom-mewpot-salmon-tuna-gil.jpg" }})
-![wellgrom-mewpot-salmon-tuna-gil-components]({{ "/assets/img/cat_chami_seuli/wellgrom-mewpot-salmon-tuna-gil-components.jpg" }})
+![wellgrom-mewpot-tuna-gil]({{ "/assets/img/cat_chami_seuli/wellgrom-mewpot-tuna-gil.jpg" }})
+![wellgrom-mewpot-tuna-gil-components]({{ "/assets/img/cat_chami_seuli/wellgrom-mewpot-tuna-gil-components.jpg" }})
 
 ## 결과
 
