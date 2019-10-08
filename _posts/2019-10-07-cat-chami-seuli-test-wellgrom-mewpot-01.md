@@ -5,7 +5,7 @@ category: [cat_chami_seuli]
 tag: [catfood-success]
 author: hdmun
 comments: true
-exceptpostlist: true
+exceptpost: true
 ---
 
 # 치킨 튼튼닭다리살

@@ -5,7 +5,7 @@ category: [cat_chami_seuli]
 tag: [catfood-success]
 author: hdmun
 comments: true
-exceptpostlist: true
+exceptpost: true
 ---
 
 # 오'피쉬얼리 스캠피

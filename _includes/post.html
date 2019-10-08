@@ -1,7 +1,7 @@
 {% assign post = include.post %}
 {% assign link_title = include.link_title %}
 
-{% unless post.exceptpostlist and include.excerpt %}
+{% unless post.exceptpost and include.excerpt %}
 <article id="post{{ post.id | replace:'/','-' }}" class="page post{% if link_title %} mb6{% endif %}" role="article">
   <header>
     <h1 class="post-title">
