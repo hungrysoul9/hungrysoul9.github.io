@@ -39,8 +39,6 @@ exceptpost: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v5ijQP8Q_KY" frameborder="0" allowfullscreen></iframe>
 
 
-# 시도하지 않은 간식들
-
 ## 치킨 생생닭가슴살
 
 ![wellgrom-mewpot-chicken-breast]({{ "/assets/img/cat_chami_seuli/wellgrom-mewpot-chicken-breast.jpg" }})
@@ -50,8 +48,13 @@ exceptpost: true
 
 | 참이 | 슬이 |
 | --- | --- |
-| ?| ? |
+| X | O |
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wi0u4N7B6BY" frameborder="0" allowfullscreen></iframe>
+
+
+# 시도하지 않은 간식들
 
 ## 연어 힘찬꼬리살
 ![wellgrom-mewpot-salmon-strongtail]({{ "/assets/img/cat_chami_seuli/wellgrom-mewpot-salmon-strongtail.jpg" }})
