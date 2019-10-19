@@ -9,7 +9,7 @@ comments: true
 exceptpost: true
 ---
 
-# 기호성 확인 테이블
+기호성 확인 테이블
 
 | 종류 | 참이 | 슬이 |
 | --- | --- | --- |
