@@ -11,11 +11,24 @@ exceptpost: true
 
 궁디팡팡 캣페스타에서 사온 `내츄럴발란스 그레인프리` 간식 기호성 테스트한 내용을 기록한다.
 
-# 성공한 간식들
 
-아직 없다...
+| 종류 | 참이 | 슬이 |
+| --- | --- | --- |
+| 오'피쉬얼리 스캠피 | X | X |
+| 차타투이 | ? | ? |
+| 시 브룰레 | ? | ? |
+| 라이프즈 어 비치 | ? | ? |
+| 퍼펙트 파엘라 | ? | ? |
+| LID 닭고기 & 호박 포뮬라 인 브롯 | ? | ? |
+| LID 참치 & 호박 포뮬라 인 브롯 | ? | ? |
 
-# 시도하지 않은 간식들
+
+# 사진, 성분표
+
+## 오'피쉬얼리 스캠피
+> 위드 참치,연어,당근 & 새우 인 어 테이스티 그레이비
+
+![]({{ "/assets/img/cat_chami_seuli/natural-balance/grainfree-ofishally-scampi.jpg" }})
 
 ## 차타투이
 > 위드 닭고기 & 닭간 인 어 테이스티 그레이비
@@ -46,17 +59,3 @@ exceptpost: true
 
 ![]({{ "/assets/img/cat_chami_seuli/natural-balance/grainfree-tuna-pumkin.jpg" }})
 ![]({{ "/assets/img/cat_chami_seuli/natural-balance/grainfree-tuna-pumkin-components.jpg" }})
-
-
-# 실패한 간식들
-
-## 오'피쉬얼리 스캠피
-> 위드 참치,연어,당근 & 새우 인 어 테이스티 그레이비
-
-![]({{ "/assets/img/cat_chami_seuli/natural-balance/grainfree-ofishally-scampi.jpg" }})
-
-### 결과
-
-| 참이 | 슬이 |
-| --- | --- |
-| X | X |

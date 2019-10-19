@@ -11,16 +11,23 @@ exceptpost: true
 
 이미 테스트가 완료된 조공 5km 스틱 아래 서술하는 것들은 대부분 실패, 안 먹는다 ㅜㅜ
 
-# 시도하지 않은 것들
+| 종류 | 참이 | 슬이 |
+| --- | --- | --- |
+| 조공 리틀제주 말고기 | X | X |
+| 조공 5km 스틱 옐로우 (닭고기 + 호박) | X | X |
+| 조공 5km 스틱 옐로우 (대구 + 호박) | X | X |
+| 조공 5km 스틱 화이트 (칠면조) | X | X |
+| 조공 5km 스틱 레드 | X | X |
+| 조공 5km 스틱 퍼플 | X | X |
+
+
+# 사진, 성분표
 
 ## 조공 리틀제주 말고기
 
 ![]({{ "/assets/img/cat_chami_seuli/jogong/little-jeju-horse.jpg" }})
 ![]({{ "/assets/img/cat_chami_seuli/jogong/little-jeju-horse-back.jpg" }})
 ![]({{ "/assets/img/cat_chami_seuli/jogong/little-jeju-horse-components.jpg" }})
-
-
-# 실패한 것들
 
 ## 조공 5km 스틱 옐로우 (닭고기 + 호박)
 
