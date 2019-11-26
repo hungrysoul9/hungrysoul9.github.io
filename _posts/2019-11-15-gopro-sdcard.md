@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GoPro(고프로) Hero7 Black 삼성 SD Card 모델명"
+title: "GoPro(고프로) Hero7 Black 지원 삼성 SD Card 모델명"
 description: >
 category: [gopro]
 tag: [tip,sdcard,gopro]
@@ -18,4 +18,4 @@ Samsung EVO Select 256GB | MB-ME256GA/AM
 Samsung EVO Plus 128GB | MB-MC128GA/AM
 Samsung EVO Plus 256GB | MB-MC256GA/AM
 
-모델 번호에서 `/AM`을 떼고 검색하자
+한국 발매 모델은 `/KR` 인듯하다. 그냥 모델 번호에서 `/AM`을 떼고 검색하면 나온다.
