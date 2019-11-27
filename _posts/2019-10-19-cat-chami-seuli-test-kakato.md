@@ -23,21 +23,21 @@ exceptpost: true
 # 사진, 성분표
 
 ## BEEF MOUSSE
-![]({{ "/assets/img/cat_chami_seuli/wellgrom/beef-mouse.jpg" }})
-![]({{ "/assets/img/cat_chami_seuli/wellgrom/beef-mouse-components.jpg" }})
+![]({{ "/assets/img/cat_chami_seuli/kakato/beef-mouse.jpg" }})
+![]({{ "/assets/img/cat_chami_seuli/kakato/beef-mouse-components.jpg" }})
 
 ## CHICKEN & CHEESE
-![]({{ "/assets/img/cat_chami_seuli/wellgrom/chicken-cheese.jpg" }})
-![]({{ "/assets/img/cat_chami_seuli/wellgrom/chicken-cheese-components.jpg" }})
+![]({{ "/assets/img/cat_chami_seuli/kakato/chicken-cheese.jpg" }})
+![]({{ "/assets/img/cat_chami_seuli/kakato/chicken-cheese-components.jpg" }})
 
 ## SALMON & TUNA
-![]({{ "/assets/img/cat_chami_seuli/wellgrom/salmon-tuan.jpg" }})
-![]({{ "/assets/img/cat_chami_seuli/wellgrom/salmon-tuan-components.jpg" }})
+![]({{ "/assets/img/cat_chami_seuli/kakato/salmon-tuan.jpg" }})
+![]({{ "/assets/img/cat_chami_seuli/kakato/salmon-tuan-components.jpg" }})
 
 ## TUNA FILLET
-![]({{ "/assets/img/cat_chami_seuli/wellgrom/tuna-fillet.jpg" }})
-![]({{ "/assets/img/cat_chami_seuli/wellgrom/tuna-fillet-components.jpg" }})
+![]({{ "/assets/img/cat_chami_seuli/kakato/tuna-fillet.jpg" }})
+![]({{ "/assets/img/cat_chami_seuli/kakato/tuna-fillet-components.jpg" }})
 
 ## TUNA & SEAWEED
-![]({{ "/assets/img/cat_chami_seuli/wellgrom/tuna-seaweed.jpg" }})
-![]({{ "/assets/img/cat_chami_seuli/wellgrom/tuna-seaweed-components.jpg" }})
+![]({{ "/assets/img/cat_chami_seuli/kakato/tuna-seaweed.jpg" }})
+![]({{ "/assets/img/cat_chami_seuli/kakato/tuna-seaweed-components.jpg" }})
