@@ -2,8 +2,8 @@
 layout: post
 title: "사이판 다이빙 성수기 시즌"
 description: >
-category: [gopro]
-tag: [tip,sdcard,gopro]
+category: [scuba-diving]
+tag: [tip,스쿠버다이빙,사이판]
 author: hdmun
 comments: true
 exceptpost: true
