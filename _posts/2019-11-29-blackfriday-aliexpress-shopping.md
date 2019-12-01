@@ -66,8 +66,19 @@ $1.01 + $0.17(배송비)
 https://ko.aliexpress.com/item/32820890370.html?spm=a2g0s.9042311.0.0.4b454c4dIcb9Ky
 
 
+## 다이빙 휘슬 (호루라기)
 
-> 아래는 지인에게 추천 받은 사이트인데 블프 시작하는 오늘 전달받아서 메모해놓는다.
- https://www.divestock.com/i/?gclid=EAIaIQobChMIh8i66PeA4QIVh6mWCh33tglEEAAYASAAEgIPJPD_BwE
- https://www.scubastore.com/%EB%8B%A4%EC%9D%B4%EB%B9%99
- https://www.leisurepro.com/
+![]({{ "/assets/img/review/2019-11-29-blackfriday-aliexpress-shopping/whistle.jpg" }})
+
+위급상황 발생시 필요할거 같아 주문
+
+### 가격
+$1.53
+
+### 제품 링크
+https://ko.aliexpress.com/item/32897340843.html?spm=a2g0s.9042311.0.0.182f4c4d9gPiSF
+
+아래는 지인에게 추천 받은 사이트인데 블프 시작하는 오늘 전달받아서 메모해놓는다.
+https://www.divestock.com/i/?gclid=EAIaIQobChMIh8i66PeA4QIVh6mWCh33tglEEAAYASAAEgIPJPD_BwE
+https://www.scubastore.com/%EB%8B%A4%EC%9D%B4%EB%B9%99
+https://www.leisurepro.com/
