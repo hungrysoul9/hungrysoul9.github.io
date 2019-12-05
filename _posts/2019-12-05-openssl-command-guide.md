@@ -14,37 +14,48 @@ comments: true
 
 커맨드만 있으므로 주의
 
-
-# 개인키(Private Key) 생성
-~~~cmd
-openssl genrsa -aes256 -out webdav_private.key 2048
-~~~
-
-# 공개키(Publick Key) 생성
-~~~cmd
-openssl rsa -in webdav_private.key -pubout -out webdav_public.key
-~~~
-
-# CSR 생성
-~~~cmd
-openssl req -new -key webdav_private.key -out webdav_private.csr
-~~~
-
 # CRT 생성
 
 ## CA 키 생성
 ~~~cmd
-openssl genrsa -aes256 -out webdav_rootCA.key 2048
+openssl genrsa -aes256 -out webdav-rootca.key 2048
 ~~~
 
 ## CA 키 CSR 생성
 ~~~cmd
-openssl req -x509 -new -nodes -key webdav_rootCA.key -days 3650 -out webdav_rootCA.pem
+openssl req -new -key webdav-rootca.key -out webdav-rootca.csr -config webdav_rootca_openssl.conf
 ~~~
 
 ## CRT 키 생성
 ~~~cmd
-openssl x509 -req -in webdav_private.csr -CA webdav_rootCA.pem -CAkey webdav_rootCA.key -CAcreateserial -out webdav_private.crt -days 3650
+openssl x509 -req -days 3650 -extensions v3_ca -set_serial 1 -in webdav-rootca.csr -signkey webdav-rootca.key -out webdav-rootca.crt -extfile webdav_rootca_openssl.conf
+~~~
+
+
+# 개인키(Private Key) 생성
+~~~cmd
+openssl genrsa -aes256 -out webdav-private.key.enc 2048
+~~~
+
+## 개인키(Private Key) pass phrase 제거
+~~~cmd
+openssl rsa -in webdav-private.key.enc -out webdav-private.key
+~~~
+
+# SSL 인증서 요청 생성
+~~~cmd
+openssl req -new -key webdav-private.key -out webdav-host.csr -config webdav_host_openssl.conf
+~~~
+
+# SSL 인증서 발급
+~~~cmd
+openssl x509 -req -days 1825 -extensions v3_user ^
+-in webdav-host.csr ^
+-CA webdav-rootca.crt ^
+-CAcreateserial ^
+-CAkey webdav-rootca.key ^
+-out webdav-host.crt ^
+-extfile webdav_host_openssl.conf
 ~~~
 
 # references
