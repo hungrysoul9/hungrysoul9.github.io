@@ -8,6 +8,8 @@ author: hdmun
 comments: true
 ---
 
+[[아시아나] 아시아나 성수기 기간 2020](https://hungrysoul9.github.io/2019/11/27/asianaairlines-season-2020/) 추가
+
 
 2018년, 2019년 아시아나 성수기 기간 표를 가져옴  
 표 끊을 때 참고하자  
