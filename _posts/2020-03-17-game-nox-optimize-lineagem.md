@@ -3,7 +3,8 @@ layout: post
 title: "[Nox] 리니지M 최적화 세팅하기"
 description: >
   녹스 리니지M 최적화 세팅 글 정리
-tags: [dev]
+category: [game]
+tags: [nox, lineagem]
 author: hdmun
 comments: true
 ---
@@ -20,9 +21,10 @@ comments: true
 
 https://xmfldksl9.wordpress.com/2018/10/13/linm/
 
-NVIDA 최적화 세팅은 하지 않고 글 내용 처럼 NOX 머신 세팅만 함.
+위 글에 있는 NVIDA 최적화 세팅은 하지 않았다. NOX 머신 세팅만 글 내용 처럼 세팅하였다.
+
+### Nox 시스템설정 세팅 값
 
 CPU | Memory | 너비 | 높이 | DPI | 그래픽 모드 | 프레임
 --- | --- | --- | --- | --- | --- | ---
 1 | 3584 | 800 | 450 | 120 | 스피드 | 20
-
