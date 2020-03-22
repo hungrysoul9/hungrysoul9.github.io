@@ -2,11 +2,13 @@
 layout: post
 title: "GoPro(고프로) Hero7 Black 지원 삼성 SD Card 모델명"
 description: >
-category: [gopro]
+category: [gopro,review]
 tag: [tip,sdcard,gopro]
 author: hdmun
 comments: true
 exceptpost: true
+redirect_from:
+ - /gopro/2019/11/15/gopro-sdcard/
 ---
 
 https://ko.gopro.com/help/articles/block/microSD-Card-Considerations#HERO7

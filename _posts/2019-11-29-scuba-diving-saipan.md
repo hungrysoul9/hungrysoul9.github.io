@@ -2,11 +2,13 @@
 layout: post
 title: "사이판 다이빙 성수기 시즌"
 description: >
-category: [scuba-diving]
+category: [scuba-diving,review]
 tag: [tip,스쿠버다이빙,사이판]
 author: hdmun
 comments: true
 exceptpost: true
+redirect_from:
+ - /scuba-diving/2019/11/29/scuba-diving-saipan/
 ---
 
 여행 일정을 잡을 때 참고하기 위해 사이판 다이빙 시즌 정보를 정리한다.

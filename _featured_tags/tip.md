@@ -2,7 +2,7 @@
 layout: list
 title: Tip
 slug: tip
-menu: true
+menu: false
 order: 11
 description: >
   유용한 팁들 소개
