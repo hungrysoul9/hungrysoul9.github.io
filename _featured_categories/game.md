@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 게임
+title: Game
 slug: game
 menu: true
 order: 100

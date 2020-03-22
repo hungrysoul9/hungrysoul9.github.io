@@ -2,7 +2,7 @@
 layout: list
 title: PokemonGo
 slug: PokemonGo
-menu: true
+menu: false
 order: 4
 description: >
   포켓몬고 관련 포스팅

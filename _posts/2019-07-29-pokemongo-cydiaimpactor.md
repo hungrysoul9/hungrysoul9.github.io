@@ -3,9 +3,12 @@ layout: post
 title: "[Pokemon Go] 포켓몬 고 iSpoofer Cydia Impactor로 설치하는 방법"
 description: >
   
+category: [game]
 tags: [PokemonGo]
 author: hdmun
 comments: true
+redirect_from:
+ - /2019/07/29/pokemongo-cydiaimpactor/
 ---
 
 포켓몬 고 GPS 조작이 가능한 iSpoofer 어플을 시디아 임팩터(Cydia Impactor)로 설치하는 방법에 대한 포스팅입니다.
