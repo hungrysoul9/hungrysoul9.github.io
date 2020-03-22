@@ -9,6 +9,7 @@ author: hdmun
 comments: true
 ---
 
+넥슨 v4 최적화 세팅 값들을 정리해본다. 테스트 해보고 나한테 맞는걸 찾아보자
 
 ## by DW.S 게임 기록 보관소
 
