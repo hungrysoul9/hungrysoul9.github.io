@@ -58,6 +58,13 @@ openssl x509 -req -days 1825 -extensions v3_user ^
 -extfile webdav_host_openssl.conf
 ~~~
 
+# IIS 인증서 등록을 위한 pfx 파일 만들기
+
+~~~cmd
+openssl pkcs12 -export -in webdav-host.crt -inkey webdav-host.key -out webdav-host.pfx
+~~~
+
+
 # references
 
 https://namjackson.tistory.com/24
